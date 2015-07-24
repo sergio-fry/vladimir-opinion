@@ -1,16 +1,26 @@
 package main
 
 import (
-	"fmt"
+	"github.com/gorilla/mux"
 	"net/http"
 	"os"
+	"vladimir-opinion/controllers"
 )
 
-func handler(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprintf(w, "Hi there, I love %s!", r.URL.Path[1:])
-}
-
 func main() {
-	http.HandleFunc("/", handler)
+	r := mux.NewRouter()
+
+	//////////////////////////////////////////////////////////////////////////////
+	// Routing
+
+	r.PathPrefix("/assets/").Handler(http.StripPrefix("/assets/", http.FileServer(http.Dir("./assets/"))))
+
+	// Controllers
+	r.HandleFunc("/", controllers.Welcome().Index)
+
+	//////////////////////////////////////////////////////////////////////////////
+
+	http.Handle("/", r)
+
 	http.ListenAndServe(":"+os.Getenv("PORT"), nil)
 }
