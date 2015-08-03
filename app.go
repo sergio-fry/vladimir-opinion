@@ -16,7 +16,14 @@ func main() {
 	r.PathPrefix("/assets/").Handler(http.StripPrefix("/assets/", http.FileServer(http.Dir("./assets/"))))
 
 	// Controllers
-	r.HandleFunc("/", controllers.Welcome().Index)
+	if os.Getenv("DEVMODE") != "" {
+		r.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
+			controllers.Welcome().Index(w, r)
+			return
+		})
+	} else {
+		r.HandleFunc("/", controllers.Welcome().Index)
+	}
 
 	//////////////////////////////////////////////////////////////////////////////
 
