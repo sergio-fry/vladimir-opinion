@@ -3,6 +3,7 @@
 <html lang="en">
 
 <head>
+    <link href='http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700,700italic&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -47,7 +48,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">Князь Владимир</a>
+                <a class="navbar-brand page-scroll" href="#page-top">Князь Владимир<br /><small style="font-size: 60%"><em>Дескриптор тут</em></small></a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -57,10 +58,10 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#text1">Зачем?</a>
+                        <a class="page-scroll" href="#text1">В чем суть?</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#text2">Что?</a>
+                        <a class="page-scroll" href="#text2">Что это даст?</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#celebrities">Кто?</a>
@@ -79,8 +80,8 @@
     <header>
         <div class="container">
             <div class="intro-text">
-                <div class="intro-heading">Князь Владимир - ЭВМ</div>
-                <div class="intro-lead-in">Построим лучший суперкомпьютер на российской элементной базе!</div>
+                <div class="intro-heading">У России свой путь технологического развития!</div>
+                <div class="intro-lead-in">Поддержи инициативу создания супер компьютера с элементами искусственного интеллекта уже к 2017 году</div>
 
 
                 <div class="embed-responsive embed-responsive-16by9">
@@ -89,7 +90,7 @@
                 <br />
                 <br />
 
-                <a href="#services" class="page-scroll btn btn-xl">Поддержать</a>
+                <a href="#services" class="page-scroll btn btn-xl">Поддержать!</a>
             </div>
         </div>
     </header>
@@ -99,34 +100,67 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Зачем?</h2>
+                    <h2 class="section-heading">В чем суть?</h2>
                     <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
                 </div>
             </div>
             <div class="row text-center">
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">Для науки</h4>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                <div class="col-md-8 text-left">
+                <p>
+                В один абзац популярным языком о самой инициативе.
+
+                На сайте российской общественной инициативы мы 
+
+                Собираем 100 000 подписей, что бы ……………………
+
+                текст текст текст текст текст текст текст текст текст
+
+                текст текст текст текст текст текст текст текст
+
+                текст текст текст текст текст текст текст текст
+
+                текст текст текст текст текст текст текст
+
+                текст текст текст текст текст текст текст
+
+                текст текст текст текст текст текст
+                </p>
                 </div>
                 <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">Для образования</h4>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                  <img src="/assets/img/portfolio/dreams-preview.png" class="img-responsive" />
+
                 </div>
+            </div>
+            <br />
+            <br />
+            <br />
+            <br />
+
+            <div class="row text-center">
                 <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="service-heading">Для бизнеса</h4>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                  <img src="/assets/img/portfolio/escape-preview.png" class="img-responsive" />
+
+                </div>
+                <div class="col-md-8 text-right">
+                <p>
+                В один абзац популярным языком о самой инициативе.
+
+                На сайте российской общественной инициативы мы 
+
+                Собираем 100 000 подписей, что бы ……………………
+
+                текст текст текст текст текст текст текст текст текст
+
+                текст текст текст текст текст текст текст текст
+
+                текст текст текст текст текст текст текст текст
+
+                текст текст текст текст текст текст текст
+
+                текст текст текст текст текст текст текст
+
+                текст текст текст текст текст текст
+                </p>
                 </div>
             </div>
         </div>
@@ -138,78 +172,20 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Что?</h2>
+                    <h2 class="section-heading">Что даст супер компьютер «Князь Валдимир»?</h2>
                     <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-12">
-                    <ul class="timeline">
-                        <li>
-                            <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="/assets/img/about/1.jpg" alt="">
-                            </div>
-                            <div class="timeline-panel">
-                                <div class="timeline-heading">
-                                    <h4>2009-2011</h4>
-                                    <h4 class="subheading">Our Humble Beginnings</h4>
-                                </div>
-                                <div class="timeline-body">
-                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="timeline-inverted">
-                            <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="/assets/img/about/2.jpg" alt="">
-                            </div>
-                            <div class="timeline-panel">
-                                <div class="timeline-heading">
-                                    <h4>March 2011</h4>
-                                    <h4 class="subheading">An Agency is Born</h4>
-                                </div>
-                                <div class="timeline-body">
-                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="/assets/img/about/3.jpg" alt="">
-                            </div>
-                            <div class="timeline-panel">
-                                <div class="timeline-heading">
-                                    <h4>December 2012</h4>
-                                    <h4 class="subheading">Transition to Full Service</h4>
-                                </div>
-                                <div class="timeline-body">
-                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="timeline-inverted">
-                            <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="/assets/img/about/4.jpg" alt="">
-                            </div>
-                            <div class="timeline-panel">
-                                <div class="timeline-heading">
-                                    <h4>July 2014</h4>
-                                    <h4 class="subheading">Phase Two Expansion</h4>
-                                </div>
-                                <div class="timeline-body">
-                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="timeline-inverted">
-                            <div class="timeline-image">
-                                <h4>Be Part
-                                    <br>Of Our
-                                    <br>Story!</h4>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
+            <div class="col-md-4">
+            <span class="fa-stack fa-4x">
+            <i class="fa fa-circle fa-stack-2x text-primary"></i>
+            <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+            </span>
+            <h4 class="service-heading">Для науки</h4>
+            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta imp
+            </p>
+
             </div>
         </div>
     </section>
