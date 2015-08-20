@@ -22,8 +22,16 @@ p {
     line-height: 1.75;
 }
 
-p.large {
+.large {
     font-size: 120%;
+}
+
+.medium {
+    font-size: 100%;
+}
+
+.small {
+    font-size: 80%;
 }
 
 a,
@@ -846,4 +854,8 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #fed136;
+}
+
+#text2 .text-muted img {
+  padding-right: 15px
 }

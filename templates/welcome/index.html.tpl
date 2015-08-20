@@ -64,6 +64,12 @@
                         <a class="page-scroll" href="#text2">Что это даст?</a>
                     </li>
                     <li>
+                        <a class="page-scroll" href="#text3">Зачем еще один?</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#text4">Что делать?</a>
+                    </li>
+                    <li>
                         <a class="page-scroll" href="#celebrities">Кто?</a>
                     </li>
                     <li>
@@ -80,8 +86,8 @@
     <header>
         <div class="container">
             <div class="intro-text">
-                <div class="intro-heading">У России свой путь технологического развития!</div>
-                <div class="intro-lead-in">Поддержи инициативу создания супер компьютера с элементами искусственного интеллекта уже к 2017 году</div>
+                <div class="intro-heading">России выбирает свой путь технологического развития!</div>
+                <div class="intro-lead-in">Поддержи инициативу создания суперкомпьютера «Князь Владимир» с системой искусственного интеллекта уже к 2017 году</div>
 
 
                 <div class="embed-responsive embed-responsive-16by9">
@@ -101,66 +107,18 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">В чем суть?</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h3 class="section-subheading text-muted"></h3>
                 </div>
             </div>
             <div class="row text-center">
                 <div class="col-md-8 text-left">
                 <p>
-                В один абзац популярным языком о самой инициативе.
-
-                На сайте российской общественной инициативы мы 
-
-                Собираем 100 000 подписей, что бы ……………………
-
-                текст текст текст текст текст текст текст текст текст
-
-                текст текст текст текст текст текст текст текст
-
-                текст текст текст текст текст текст текст текст
-
-                текст текст текст текст текст текст текст
-
-                текст текст текст текст текст текст текст
-
-                текст текст текст текст текст текст
+                Как никогда Время исторических перемен зависит от Тебя. На сайте российской общественной инициативы мы собираем 100 000 подписей, чтобы создать сверхмощный суперкомпьютер «Князь Владимир» с системой искусственного интеллекта «Царица Анна». Технологическое Лидерство России в XXI веке зависит от голоса каждого из нас. Мы выбираем русский путь к Четвертой Научно-Технической Революции.
                 </p>
                 </div>
                 <div class="col-md-4">
                   <img src="/assets/img/portfolio/dreams-preview.png" class="img-responsive" />
 
-                </div>
-            </div>
-            <br />
-            <br />
-            <br />
-            <br />
-
-            <div class="row text-center">
-                <div class="col-md-4">
-                  <img src="/assets/img/portfolio/escape-preview.png" class="img-responsive" />
-
-                </div>
-                <div class="col-md-8 text-right">
-                <p>
-                В один абзац популярным языком о самой инициативе.
-
-                На сайте российской общественной инициативы мы 
-
-                Собираем 100 000 подписей, что бы ……………………
-
-                текст текст текст текст текст текст текст текст текст
-
-                текст текст текст текст текст текст текст текст
-
-                текст текст текст текст текст текст текст текст
-
-                текст текст текст текст текст текст текст
-
-                текст текст текст текст текст текст текст
-
-                текст текст текст текст текст текст
-                </p>
                 </div>
             </div>
         </div>
@@ -169,23 +127,110 @@
 
     <!-- Text2 Section -->
     <section id="text2">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h2 class="section-heading">Что даст супер компьютер «Князь Валдимир»?</h2>
+            <h3 class="section-subheading text-muted"></h3>
+          </div>
+        </div>
+
+        <div class="row">
+
+          <div class="col-md-4">
+            <h3>Обществу</h3>
+            <p class="text-muted medium">
+              <img src="/assets/img/portfolio/dreams.png" class="img-responsive" align="left" style="max-width: 150px" />
+              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+            </p>
+          </div>
+
+          <div class="col-md-4">
+            <h3>Бизнесу</h3>
+            <p class="text-muted medium">
+              <img src="/assets/img/portfolio/dreams.png" class="img-responsive" align="left" style="max-width: 150px" />
+              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+            </p>
+          </div>
+
+          <div class="col-md-4">
+            <h3>Науке</h3>
+            <p class="text-muted medium">
+              <img src="/assets/img/portfolio/dreams.png" class="img-responsive" align="left" style="max-width: 150px" />
+              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+            </p>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+
+
+
+    <!-- Text3 Section -->
+    <section id="text3">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Что даст супер компьютер «Князь Валдимир»?</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h2 class="section-heading">Зачем нам еще один суперкомпьютер?</h2>
+                    <h3 class="section-subheading text-muted"></h3>
                 </div>
             </div>
-            <div class="row">
-            <div class="col-md-4">
-            <span class="fa-stack fa-4x">
-            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-            <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
-            </span>
-            <h4 class="service-heading">Для науки</h4>
-            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta imp
-            </p>
+            <div class="row text-center">
+                <div class="col-md-4">
+                  <img src="/assets/img/portfolio/dreams-preview.png" class="img-responsive" />
 
+                </div>
+
+                <div class="col-md-8 text-left">
+                <p>
+                Согласно <a href="http://www.top500.org/statistics/" target="_blank">TOP500</a> - рейтингу 500 самых мощных Суперкомпьютеров в Мире, на 15 июня 2015 г. в России находится всего 8 суперкомпьютеров. Во Франции таких вычислительных машин 27, в Великобритании - 29, в Германии и Китае по 37, в Японии – 40, в США – 233!!! XXI век - век Суперкомпьютеров и Искусственного Интеллекта, ускоряющих эволюцию Человека и Общества.
+                </p>
+                </div>
+            </div>
+            <div class="row text-center">
+                <div class="col-md-8 text-left">
+                <h3>Почему так важни инициатива?</h3>
+                <p>
+                Четвертая Научно-Техническая Революция - главное событие XXI века. Ее особенность – первенство технологий в обработке информации, человек-машинного взаимодействия и искусственного интеллекта. Единственный ключ к лидерству России в XXI веке – собственные вычислительные сверхмощности, прорывные информационные технологии и свой мировоззренческий Путь эволюционного развития Человека и Искусственного Интеллекта.
+
+                </p>
+                </div>
+
+                <div class="col-md-4">
+                  <img src="/assets/img/portfolio/dreams-preview.png" class="img-responsive" />
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Text4 Section -->
+    <section id="text4">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Что надо сделать?</h2>
+                    <h3 class="section-subheading text-muted"></h3>
+                </div>
+            </div>
+            <div class="row text-center">
+                <div class="col-md-8 text-left">
+                <p>
+                Пройти по <a href="https://www.roi.ru/" target="_blank">ссылке</a> и поддержать инициативу сайте «Российской общественной инициативы. Вам должно быть больше 18 лет и вы должны иметь <a href="https://esia.gosuslugi.ru/registration/" target="_blank">регистрацию</a> на сайте Госуслуг.
+                </p>
+                </div>
+                <div class="col-md-4">
+                  <p>
+                  <strong>
+                    Стань участником революции, заяви о своем праве на эволюцию!
+                  </strong>
+                  </p>
+
+
+                  <a href="https://www.roi.ru/" target="_blank" class="btn btn-primary btn-lg">Проголосуй на РОИ</a>
+                </div>
             </div>
         </div>
     </section>
