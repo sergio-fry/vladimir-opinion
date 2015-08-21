@@ -86,8 +86,8 @@
     <header>
         <div class="container">
             <div class="intro-text">
-                <div class="intro-heading">России выбирает свой путь технологического развития!</div>
-                <div class="intro-lead-in">Поддержи инициативу создания суперкомпьютера «Князь Владимир» с системой искусственного интеллекта уже к 2017 году</div>
+                <div class="intro-heading">Россиия выбирает<br /> свой путь<br /> технологического развития!</div>
+                <div class="intro-lead-in">Поддержи инициативу создания<br /> суперкомпьютера «Князь Владимир»<br /> с системой искусственного интеллекта уже к 2017 году</div>
 
 
                 <div class="embed-responsive embed-responsive-16by9">
@@ -130,7 +130,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading">Что даст супер компьютер «Князь Валдимир»?</h2>
+            <h2 class="section-heading">Что даст суперкомпьютер «Князь Владимир»?</h2>
             <h3 class="section-subheading text-muted"></h3>
           </div>
         </div>
@@ -173,7 +173,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Зачем нам еще один суперкомпьютер?</h2>
+                    <h2 class="section-heading">Зачем нам нужен суперкомпьютер?</h2>
                     <h3 class="section-subheading text-muted"></h3>
                 </div>
             </div>
@@ -191,7 +191,7 @@
             </div>
             <div class="row text-center">
                 <div class="col-md-8 text-left">
-                <h3>Почему так важни инициатива?</h3>
+                <h3>Почему так важна инициатива?</h3>
                 <p>
                 Четвертая Научно-Техническая Революция - главное событие XXI века. Ее особенность – первенство технологий в обработке информации, человек-машинного взаимодействия и искусственного интеллекта. Единственный ключ к лидерству России в XXI веке – собственные вычислительные сверхмощности, прорывные информационные технологии и свой мировоззренческий Путь эволюционного развития Человека и Искусственного Интеллекта.
 
@@ -218,7 +218,7 @@
             <div class="row text-center">
                 <div class="col-md-8 text-left">
                 <p>
-                Пройти по <a href="https://www.roi.ru/" target="_blank">ссылке</a> и поддержать инициативу сайте «Российской общественной инициативы. Вам должно быть больше 18 лет и вы должны иметь <a href="https://esia.gosuslugi.ru/registration/" target="_blank">регистрацию</a> на сайте Госуслуг.
+                Пройти по <a href="https://www.roi.ru/" target="_blank">ссылке</a> и поддержать инициативу на сайте «Российской общественной инициативы». Вы должны быть старше 18 лет и Вы должны иметь <a href="https://esia.gosuslugi.ru/registration/" target="_blank">регистрацию</a> на сайте Госуслуг.
                 </p>
                 </div>
                 <div class="col-md-4">
@@ -240,7 +240,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Кто уже поддеражл инициативу?</h2>
+                    <h2 class="section-heading">Кто уже поддержал инициативу?</h2>
                     <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
                 </div>
             </div>
@@ -309,7 +309,7 @@
 
     <!-- Clients Aside -->
     <aside class="clients">
-      <h2 class="text-center section-heading">Наши пратнеры</h2>
+      <h2 class="text-center section-heading">Наши партнеры</h2>
         <div class="container">
             <div class="row">
                 <div class="col-md-3 col-sm-6">
