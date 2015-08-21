@@ -101,6 +101,19 @@
         </div>
     </header>
 
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+    <center>
+      <script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script><div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="large" data-yashareQuickServices="vkontakte,facebook,twitter,moimir,odnoklassniki,gplus" data-yashareTheme="counter" ></div>
+    </center>
+
+
     <!-- Text1 Section -->
     <section id="text1">
         <div class="container">
