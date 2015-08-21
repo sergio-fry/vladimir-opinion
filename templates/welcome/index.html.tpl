@@ -86,7 +86,7 @@
     <header>
         <div class="container">
             <div class="intro-text">
-                <div class="intro-heading">Россиия выбирает<br /> свой путь<br /> технологического развития!</div>
+                <div class="intro-heading">Россия выбирает<br /> свой путь<br /> технологического развития!</div>
                 <div class="intro-lead-in">Поддержи инициативу создания<br /> суперкомпьютера «Князь Владимир»<br /> с системой искусственного интеллекта уже к 2017 году</div>
 
 
